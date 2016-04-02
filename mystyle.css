@@ -1,4 +1,5 @@
  body {
+<<<<<<< HEAD
  		background-color: black;
         background-color: blue;
  		text-align: center;
@@ -6,12 +7,21 @@
 
  }
 
+=======
+	background-color: black;
+    background-color: pink;
+	text-align: center;
+	font-family: helvetica;
+ }
+
+
+>>>>>>> experiment
  h1	{
-	 	text-align: center;
-	 	color: red;
-	 	font-weight: bold;
-	 	font-size: 55px;
-	 	word-spacing: 25px;
+ 	text-align: center;
+ 	color: red;
+ 	font-weight: bold;
+ 	font-size: 55px;
+ 	word-spacing: 25px;
  }
 
  p  {
