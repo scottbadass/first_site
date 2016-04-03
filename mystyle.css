@@ -1,21 +1,9 @@
- body {
-<<<<<<< HEAD
- 		background-color: black;
-        background-color: blue;
- 		text-align: center;
- 		font-family: helvetica;
-
+body {
+    background-color: black;
+    text-align: center;
+    font-family: helvetica;
  }
 
-=======
-	background-color: black;
-    background-color: pink;
-	text-align: center;
-	font-family: helvetica;
- }
-
-
->>>>>>> experiment
  h1	{
  	text-align: center;
  	color: red;
@@ -23,15 +11,14 @@
  	font-size: 55px;
  	word-spacing: 25px;
  }
-
  p  {
  	color: yellow;
  	font-size: 25px;
  }
-
- ul	{
- 	color: green;
- }
+ ul li {
+    list-style-type: none; 
+    color: green;
+    }
 
  
 /* ############################################################
